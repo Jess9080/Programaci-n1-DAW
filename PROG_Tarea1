@@ -1,0 +1,43 @@
+// *******************************************************  
+// Resolución de la Actividad PROG01 - Unidad de Trabajo 01  
+// *******************************************************  
+
+// 1. Propósito del programa:  
+// Este programa imprime en pantalla información básica relacionada con el módulo de programación,  
+// incluyendo detalles personales del alumno/a, localidad, y fecha de realización.  
+// Sirve como introducción a la configuración del entorno Java y la realización de compilaciones básicas.  
+
+// 2. Requisitos:  
+// - Tener instalado Oracle JDK u OpenJDK versión 11 o superior.  
+// - Configurar las variables de entorno PATH y CLASSPATH correctamente.  
+// - Compilar el programa mediante el comando: javac PROG01_programa1.java.  
+// - Ejecutar el programa mediante el comando: java PROG01_programa1.  
+
+// 3. Fecha de creación:  
+// Abril 2025 (o la fecha en la que estés entregando la actividad).  
+
+// 4. Detalles opcionales:  
+// - Cambiar las líneas de salida (System.out.println) para personalizar con tus propios datos.  
+// - Si hay errores durante la compilación (como falta de configuración del PATH), revisa los pasos del entorno.  
+// - Ejemplo de ejecución esperada en la consola:  
+//     Módulo Profesional - PROGRAMACIÓN. UNIDAD DE TRABAJO 01  
+//     Introducción a la programación  
+//     Nombre y apellidos del alumno/a  
+//     Localidad y provincia  
+//     Fecha de realización del ejercicio  
+//     Programa1  
+
+public class PROG01_programa1 {  
+    public static void main(String[] args) {  
+        System.out.println("Módulo Profesional - PROGRAMACIÓN. UNIDAD DE TRABAJO 01");  
+        System.out.println("Introducción a la programación");  
+        System.out.println("Nombre y apellidos del alumno/a");  
+        System.out.println("Localidad y provincia");  
+        System.out.println("Fecha de realización del ejercicio");  
+        System.out.println("Programa1");  
+    }  
+}  
+
+
+
+
